@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Test
+I'm Micky from France, and I do code some games or projects with my friends. I love to learn anc I'm actually learning C++.
 <!--
 **PGII33/PGII33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
