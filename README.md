@@ -8,7 +8,7 @@ I'm Micky from France, and I do code some games or projects with my friends. I l
   </a>
   
   <a href="https://untypequicode.github.io" target="_blank">
-    <img height=175 align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=PGII33&langs_count=20&locale=fr&theme=merko&hide_border=true&langs_count=10&show_icons=true&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Github Languages" />
+    <img height=175 align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=PGII33&langs_count=20&locale=fr&theme=merko&hide_border=false&langs_count=10&show_icons=true&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Github Languages" />
   </a>
 
 </p>
