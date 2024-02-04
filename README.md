@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Micky from France, and I do code some games or projects with my friends. I love to learn anc I'm actually learning C++.
+I'm Micky from France, and I do code some games or projects with my friends. I love to learn and I'm actually leaning multiple languages such as C++, C or PHP and Javascript.
+I want to learn the more thing I can. 
 
 <p align="center">
   <a>
